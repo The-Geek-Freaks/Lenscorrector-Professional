@@ -11,6 +11,24 @@
   [![Discord](https://img.shields.io/discord/397127284114325504?label=Discord&logo=discord)](https://tgf.click/discord)
 </div>
 
+<div align="center">
+  <h3>Filter Interface</h3>
+  <img src="images/filter-interface.png" alt="Lenscorrector Filter Interface" width="800"/>
+  <p><i>The main filter interface with all correction options</i></p>
+</div>
+
+<div align="center">
+  <h3>Before / After Comparison</h3>
+  <img src="images/before-after.png" alt="Before and After Correction" width="800"/>
+  <p><i>Example of lens correction with a wide-angle camera</i></p>
+</div>
+
+<div align="center">
+  <h3>Grid Overlay System</h3>
+  <img src="images/grid-system.png" alt="Grid Overlay Options" width="800"/>
+  <p><i>Different grid types for composition and correction</i></p>
+</div>
+
 ## 📑 Table of Contents
 - [✨ Key Features](#-key-features)
 - [🎯 Use Cases](#-use-cases)
@@ -136,5 +154,5 @@ This project is licensed under the GPLv3 License - see the LICENSE file for deta
 
 <div align="center">
   <p>Created by TheGeekFreaks</p>
-  <p>Copyright © 2025 All rights reserved.</p>
+  <p>Copyright 2025 All rights reserved.</p>
 </div>

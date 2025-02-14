@@ -577,6 +577,28 @@ source_def.get_properties = function()
     obs.obs_properties_add_float_slider(visual_group, SETTING_SPLIT_POSITION, L("split_position"), 0.0, 100.0, 0.1)
     obs.obs_properties_add_group(props, "visual_aids", L("visual_aids"), obs.OBS_GROUP_NORMAL, visual_group)
 
+    source_def.description = [[
+{{ Lenscorrector Professional - Erweiterte Objektivkorrektur für OBS }}
+
+{{ Anleitung: }}
+1. Fügen Sie den Filter "Lenscorrector Professional" zu Ihrer Videoquelle hinzu
+2. Wählen Sie die Brennweite Ihres Objektivs aus der Liste
+3. Passen Sie bei Bedarf die Korrekturstärke an
+4. Speichern Sie Ihre Einstellungen als Profil
+
+{{ Hinweis: }} Die Sprache des Filters wird aktualisiert, wenn Sie den "Zurücksetzen" Knopf in den Filtereinstellungen drücken.
+
+{{ Lenscorrector Professional - Advanced Lens Correction for OBS }}
+
+{{ Instructions: }}
+1. Add the "Lenscorrector Professional" filter to your video source
+2. Select your lens focal length from the list
+3. Adjust the correction strength if needed
+4. Save your settings as a profile
+
+{{ Note: }} The filter language will update when you press the "Reset" button in the filter settings.
+]]
+
     return props
 end
 
@@ -605,7 +627,27 @@ source_def.video_tick = function(filter, seconds)
 end
 
 function script_description()
-    return "Adds a professional lens correction filter with advanced features"
+    return [[
+{{ Lenscorrector Professional - Erweiterte Objektivkorrektur für OBS }}
+
+{{ Anleitung: }}
+1. Fügen Sie den Filter "Lenscorrector Professional" zu Ihrer Videoquelle hinzu
+2. Wählen Sie die Brennweite Ihres Objektivs aus der Liste
+3. Passen Sie bei Bedarf die Korrekturstärke an
+4. Speichern Sie Ihre Einstellungen als Profil
+
+{{ Hinweis: }} Die Sprache des Filters wird aktualisiert, wenn Sie den "Zurücksetzen" Knopf in den Filtereinstellungen drücken.
+
+{{ Lenscorrector Professional - Advanced Lens Correction for OBS }}
+
+{{ Instructions: }}
+1. Add the "Lenscorrector Professional" filter to your video source
+2. Select your lens focal length from the list
+3. Adjust the correction strength if needed
+4. Save your settings as a profile
+
+{{ Note: }} The filter language will update when you press the "Reset" button in the filter settings.
+]]
 end
 
 function script_load(settings)
