@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>Filter Interface</h3>
-  <img src="images/filter-interface.png" alt="Lenscorrector Filter Interface" width="800"/>
+  <img src="images/filter-interface.png.png" alt="Lenscorrector Filter Interface" width="800"/>
   <p><i>The main filter interface with all correction options</i></p>
 </div>
 
