@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎥 Lenscorrector Professional</h1>
+  <h1>🎥 Lenscorrector Professional for OBS Studio</h1>
   <p>A powerful OBS Studio filter for advanced lens correction and camera profile management.</p>
   <p>Perfect for streamers, content creators, and professional broadcasters using wide-angle lenses.</p>
 
