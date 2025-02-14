@@ -29,6 +29,33 @@
   <p><i>Different grid types for composition and correction</i></p>
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+  <h3>Different Grid Types</h3>
+  <p>
+    <img src="images/grid-standard.png" alt="Standard Grid" width="400"/>
+    <img src="images/grid-perspective.png" alt="Perspective Grid" width="400"/>
+  </p>
+  <p><i>Standard grid (left) and perspective grid (right) for composition and correction</i></p>
+</div>
+
+<div align="center">
+  <h3>Advanced Settings & Profile Management</h3>
+  <p>
+    <img src="images/settings-interface.png" alt="Settings Interface" width="600"/>
+  </p>
+  <p><i>Complete interface with camera profiles, lens correction, and visual aids</i></p>
+</div>
+
+<div align="center">
+  <h3>Split Screen Comparison</h3>
+  <p>
+    <img src="images/split-screen.png" alt="Split Screen Comparison" width="800"/>
+  </p>
+  <p><i>Side-by-side comparison of original and corrected image</i></p>
+</div>
+
 ## 📑 Table of Contents
 - [✨ Key Features](#-key-features)
 - [🎯 Use Cases](#-use-cases)
