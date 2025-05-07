@@ -3,7 +3,7 @@
   <p>A powerful OBS Studio filter for advanced lens correction and camera profile management.</p>
   <p>Perfect for streamers, content creators, and professional broadcasters using wide-angle lenses.</p>
 
-  ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+  ![Version](https://img.shields.io/badge/Version-1.1.0-blue)
   ![Downloads](https://img.shields.io/github/downloads/The-Geek-Freaks/Lenscorrector-Professional/total)
   ![OBS](https://img.shields.io/badge/OBS-30.0+-purple.svg)
   ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue)
